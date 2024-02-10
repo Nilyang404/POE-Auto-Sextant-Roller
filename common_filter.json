@@ -1,0 +1,64 @@
+{
+    "blacklist": [
+        "Player's Life and Mana Recovery from Flasks are instant (enchant)",
+        "Players and Monsters take 12% increased Chaos Damage (enchant)",
+        "Your Maps contain 6 additional packs of Monsters that Convert when Killed (enchant)",
+        "Breaches in your Maps belong to Uul-Netol (enchant)",
+        "Players' Vaal Skills do not apply Soul Gain Prevention (enchant)",
+        "Breaches in your Maps belong to Xoph (enchant)",
+        "Breaches in your Maps belong to Esh (enchant)",
+        "Breaches in your Maps belong to Tul (enchant)",
+        "Rogue Exiles deal 20% increased Damage (enchant)",
+        "Your Maps contain 25 additional Clusters of Mysterious Barrels (enchant)",
+        "The First 3 Possessed Monsters drop an additional Rusted Scarab (enchant)",
+        "The First 3 Possessed Monsters drop an additional Unique Item (enchant)",
+        "Map Bosses drop an additional Unique Item (enchant)",
+        "The First 3 Possessed Monsters drop an additional Polished Scarab (enchant)",
+        "Players' Vaal Skills do not apply Soul Gain Prevention (enchant)",
+        "Map Bosses of your Corrupted Maps drop 2 additional Vaal Items (enchant)",
+        "Unique Monsters drop Corrupted Items (enchant)",
+        "Players gain an additional Vaal Soul on Kill (enchant)",
+        "Players and Monsters take 12% increased Cold Damage (enchant)",
+        "Players and Monsters take 12% increased Fire Damage (enchant)",
+        "Players and Monsters take 12% increased Lightning Damage (enchant)",
+        "Players and Monsters take 12% increased Physical Damage (enchant)",
+        "Your Maps contain 6 additional packs of Corrupted Vaal Monsters (enchant)",
+        "Rogue Exiles deal 20% increased Damage (enchant)",
+        "Your Maps contain Einhar (enchant)",
+        "The First 3 Possessed Monsters drop an additional Map (enchant)",
+        "Your Maps contain an additional Abyss (enchant)",
+        "Area contains a Smuggler's Cache (enchant)",
+        "Map Bosses have 20% increased Life (enchant)",
+        "other"
+    ],
+        "whitelist": [
+            "Strongbox Monsters are Enraged (enchant)",
+            "Lifeforce dropped by Harvest Monsters in your Maps is Duplicated (enchant)",
+            "Your Maps contain an additional Legion Encounter (enchant)",
+            "Maps found in your Maps are Corrupted with 8 Modifiers (enchant)",
+            "Delirium Reward Bars fill 100% faster in your Maps (enchant)",
+            "Slaying Enemies close together can attract monsters from Beyond this realm (enchant)",
+            "Your Maps contain The Sacred Grove (enchant)",
+            "Your Maps contain a Mirror of Delirium (enchant)",
+            "Breaches in your Maps belong to Chayula (enchant)",
+            "Map Bosses are accompanied by a mysterious Harbinger (enchant)",
+            "Map Bosses are accompanied by Bodyguards (enchant)",
+            "Your Maps contain a Blight Encounter (enchant)",
+            "",
+            "other"
+        ],
+        "stop": [
+            "Maps Dropped in Areas have 25% chance to be 1 tier higher"
+        ],
+        "adjust": [
+            "Players and Monsters take 12% increased Cold Damage (enchant)"
+        ],
+        "quick_search": [
+            "your maps have 20% q",
+            "additional Legion",
+            "additional Breach",
+            "2 additional strongbox",
+            "contain Ritual"
+
+        ]
+}
